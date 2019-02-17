@@ -5,7 +5,7 @@
  */
 
 
-//% weight=100 color=#9C0A0A icon="\uf362"
+//% weight=100 color=#9C0A0A icon="\uf545"
 namespace US100 {
     /**
      * TODO: describe your function here
