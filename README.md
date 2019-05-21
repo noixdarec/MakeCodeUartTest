@@ -1,6 +1,6 @@
 # pxt-us100
 
-
+Use this extension to read Distance (mm) and Temperature (C) from US-100 in UART Mode
 
 ## TODO
 
